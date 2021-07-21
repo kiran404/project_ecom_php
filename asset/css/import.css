@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,300i,400,500,700|Josefin+Sans:300,300i,400,400i,600,600i,700,700i|Lato:400,700,900');
+
+@import "../library/bootstrap/css/bootstrap.css";
+@import "../library/bxslider/jquery.bxslider.css";
+@import "../library/fancyBox/jquery.fancybox.css";
+@import "../library/fontAwesome/css/font-awesome.css";
+
+
+
+/* 
+    font-family: 'Lato', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Barlow Semi Condensed', sans-serif; */
+

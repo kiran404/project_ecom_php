@@ -1,0 +1,89 @@
+.breadcrumb{
+	background-color: #fff;
+}
+.breadcrumbimage li a{
+	color: #fff;
+}
+.breadcrumb > .active {
+    color: #F37E22;
+}
+.notice_description{
+	border:1px solid #dcdcdc;
+	margin-bottom: 30px;
+}
+.date{
+	background-color: #474361;
+	color: #fff;
+	padding: 5px;
+}
+.sidebarsection{
+	margin-bottom: 50px;
+}
+.sidebarsection .sidebar h2{
+	text-align: left;
+	margin-left: 15px;
+	padding-bottom: 50px;
+}
+.sidebarsection .sidebar h3{
+	color: rgb(243, 126, 34);
+}
+.sidebarsection .sidebar .notice_description .noticebody p{
+	text-align: justify;
+	padding: 10px;
+}
+.sidebarsection .sidebar .notice_description .date i{
+	margin-right:5px; 
+	margin-left: 8px;
+}
+.download p{
+	color: #53BDE5;
+	display: inline;
+}
+.download button{
+	background-color:#F37E22;
+	padding: 5px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+.download button:hover{
+	background-color:#028FCC; 
+}
+.download button a{
+	color: #fff;
+	display: inline-block;
+}
+.download button i{
+	color: #fff;
+	padding-left: 10px;
+}
+.sidebarsection .sidebar .side_bar{
+	padding-bottom: 30px;
+}
+.sidebarsection .sidebar .notice_description .noticebody .tags p{
+	color: #53BDE5;
+	display: inline-block;
+	padding: 0px 0px 10px 10px;
+}
+.sidebarsection .sidebar .notice_description .noticebody .tags ul{
+	display: inline;
+}
+.sidebarsection .sidebar .notice_description .noticebody .tags ul li{
+	background-color: #847EAA;
+	list-style-type: none;
+	display: inline-block;
+	color: #fff;
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+.gallery .gallery_images{
+	margin-bottom: 50px;
+}
+.sidebarsection .sidebar .right_side img{
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.sidebarsection .sidebar .side_bar{
+	border:1px solid #dcdcdc;
+}

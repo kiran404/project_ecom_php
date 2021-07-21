@@ -1,0 +1,65 @@
+.notes_download .notessection h2{
+	text-decoration: underline;
+	text-align: left;
+	margin-left: 15px;
+	padding-top: 30px;
+}
+.notes_download .notessection .panel{
+	border:1px solid #dcdcdc;
+}
+.notes_download .notessection .form-control{
+	width: 30%;
+	display: inline-block;
+}
+.notes_download .notessection button{
+	padding: 5px;
+	width: 50px;
+	background-color: #3691CD;
+	color: #fff;
+}
+
+.notes_download .notessection button:hover{
+	background-color: #F37E22;
+}
+.notes_download .notessection .search{
+	margin-bottom: 20px;
+	margin-left: 8px;
+}
+.notes_download .notessection .download_section .downloadheader{
+	background-color: #474361;
+	color: #fff;
+	padding: 20px;
+}
+.download_section{
+	border: 1px solid #dcdcdc;
+	margin-bottom: 30px;
+}
+.download_section .downloadbody{
+	padding: 15px;
+	border-bottom: 1px solid #dcdcdc;
+}
+.download_section .downloadbody p.tags{
+	display: inline-block;
+	color: #028FCC;
+}
+.download_section .downloadbody .tag{
+	background-color: #847eaa;
+	color: #fff;
+ 	padding: 0px 5px 0px 5px;
+}
+.download_section .downloadpart button{
+	width: 120px;
+	background-color: #028FCC;
+	color: #fff;
+	margin-left: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.download_section .downloadpart button:hover{
+	background-color: #F37E22;
+}
+.notes_download .notessection img{
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}

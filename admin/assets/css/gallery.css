@@ -1,0 +1,30 @@
+*{
+    margin: 0px auto;
+}
+#upper-menu{
+    height: 100px;
+}
+body{
+    font-family: sans-serif, bold, Arial, Helvetica;
+}
+h1{
+    text-align: center;
+    color: forestgreen;
+    margin: 90px 100x 550px;
+}
+.gallery{
+    margin: 10px 50px;
+}
+.gallery img{
+    width: 403px;
+    padding: 5px;
+    filter: grayscale(90%);
+    transition: 0.8s;
+}
+.gallery img:hover{
+    filter: grayscale(0);
+    transform: scale(1.1);
+}
+.up-foot{
+background: #1a1a1a;
+}

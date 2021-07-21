@@ -1,0 +1,63 @@
+.breadcrumb{
+	background-color: #24233b;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+}
+.breadcrumbimage{
+	background-color: #24233b;
+}
+.breadcrumbimage li a{
+	color: #fff;
+}
+.breadcrumb > .active {
+    color: #F37E22;
+}
+.faculty_info .facultyinfo h2{
+	text-align: left;
+	padding-bottom: 0px;
+}
+.faculty_info .facultyinfo .line{
+	border-top: 2px solid #028FCC;
+	width: 125px;
+	height: 0px;
+	display: inline-block;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.nav-tabs {
+    margin-bottom: 20px;
+}
+.mainheading{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	background-color: #028fcc;
+	color: #fff;
+}
+.tabname{
+	text-align: center;
+	font-weight: bold;
+	background-color:#2c9993;
+	color: #fff;
+}
+.principal{
+	background-color:#838F9C;
+	color: #fff;
+}
+.tabnames{
+	background-color:#2c9993;
+	color: #fff;
+}
+.title td{
+	background-color: #ffd133;
+	text-align: center;
+	color: #fff;
+}
+.titledata td{
+	background-color:#474361;
+	color: #fff;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+	background-color: #FFD133;
+}

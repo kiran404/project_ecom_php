@@ -1,0 +1,49 @@
+.notice_section .notice .panel{
+	border:1px solid #dcdcdc;
+	padding-left: 30px;
+}
+.notice_section .notice .notice_heading .noticespan h2{
+	text-decoration: underline;
+	text-align: left;
+	padding-top: 30px;
+} 
+.breadcrumb{
+	background-color: #fff;
+}
+.breadcrumbimage li a{
+	color: #fff;
+}
+.breadcrumb > .active {
+    color: #F37E22;
+}
+.noticesection .noticeheader{
+	background-color: #474361;
+	color: #fff;
+	padding: 20px;
+}
+.noticesection{
+	border:1px solid #dcdcdc;
+	margin-bottom: 20px;
+
+}
+.noticesection .noticeheader small{
+	float: right;
+}
+.noticesection .noticebody{
+	padding: 10px;
+}
+.noticesection .noticebody p{
+	text-align: justify;
+}
+.noticesection .noticebody p.tags{
+	color: #028FCC;
+	display: inline-block;
+}
+.noticesection .noticebody .tag{
+	background-color: #847eaa;
+	color: #fff;
+ 	padding: 0px 5px 0px 5px;
+}
+.notice_section .notice .right_side img{
+  margin-top: 30px;
+}

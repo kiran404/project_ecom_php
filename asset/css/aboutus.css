@@ -1,0 +1,110 @@
+.breadcrumb{
+	background-color: #24233b;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+}
+.breadcrumbimage{
+	background-color: #24233b;
+	margin-bottom: 50px;
+}
+.breadcrumbimage li a{
+	color: #fff;
+}
+.breadcrumb > .active {
+    color: #F37E22;
+}
+.side_bar{
+	border: 1px solid #dcdcdc;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.sidebarsection .sidebar .aboutborder{
+	border-right: 1px solid #dcdcdc;
+}
+
+.sidebarsection .sidebar .about_image img{
+	float: left;
+	padding-right: 15px;
+	width: 60%;
+}
+.sidebarsection .sidebar .aims_image img{
+	float: right;
+	padding-left: 15px;
+	width: 60%;
+	padding-right: 15px;
+}
+.sidebarsection .sidebar  h2{
+	padding-bottom: 0px;
+	text-align: left;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-top: 0px;
+}
+.sidebarsection .sidebar .line{
+	border-top: 2px solid #028FCC;
+	width: 230px;
+	height: 0px;
+	display: inline-block;
+	margin-left: 19px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.sidebarsection .sidebar .aims h2{
+	padding-top: 20px;
+}
+.sidebarsection .sidebar .aims .line{
+	width: 334px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.sidebarsection .sidebar .about_us img{
+	margin-left: auto;
+	margin-right: auto;
+}
+.sidebarsection .sidebar .about_us p{
+	text-align: justify;
+	padding-right: 15px;
+}
+.sidebarsection .sidebar .about_us ul{
+	padding-left: 50px;
+}
+.sidebarsection .sidebar .about_us ul li{
+	color: #F37E22;
+	line-height: 30px;
+}
+.sidebarsection .sidebar .about_us ul li span{
+	color: #333;
+}
+.sidebarsection .sidebar .right_side img{
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.aboutgallery_section .aboutgallery h2{
+	text-align: left;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+.aboutgallery_section .aboutgallery .line{
+	border-top: 2px solid #028FCC;
+	width: 125px;
+	height: 0px;
+	display: inline-block;
+	margin-left: 19px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.aboutgallery_section .aboutgallery img{
+	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+} 
+.aboutgallery_section .aboutgallery{
+	margin-bottom: 50px;
+}
+@media only screen and (min-width: 320px) and (max-width: 479px){
+	.sidebarsection .sidebar .about_us img{
+		width: 100%;
+	}
+}
